@@ -44,6 +44,10 @@
       ],
       "@app/shared/*": [
         "src/app/shared/*"
+      ],
+      "ui-library": [
+        "dist/ui-library/ui-library",
+        "dist/ui-library"
       ]
     }
   },
